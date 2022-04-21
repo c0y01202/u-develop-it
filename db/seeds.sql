@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 INSERT INTO candidates (first_name, last_name, industry_connected)
+=======
+INSERT INTO candidates
+  (first_name, last_name, industry_connected)
+>>>>>>> develop
 VALUES
   ('Ronald', 'Firbank', 1),
   ('Virginia', 'Woolf', 1),
